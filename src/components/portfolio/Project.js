@@ -47,7 +47,7 @@ export default class Project extends Component {
                                 <div className="button return" onClick={this.handleInfo}>Retourner sur la page</div>
                             </div>
                         </div>
-                    ) // this.state.showInfo : cette façon d'écrire un sode ce lis comme "si this.state.showInfo est true ..." ou "si cela à pour state showInfo alors..."
+                    ) // this.state.showInfo : cette façon d'écrire un code ce lis comme "si this.state.showInfo est true ..." ou "si cela à pour state showInfo alors..."
                 }
             </div>
         );

@@ -11,10 +11,10 @@ const App = () => {
 		<>
 			<BrowserRouter>
 				<Switch>
-					<Route path="/" exact component={Home} />
-					<Route path="/compétences" component={Knowledges} />
-					<Route path="/portfolio" component={Portfolio} />
-					<Route path="/contact" component={Contact} />
+					<Route path="/react-cv/" exact component={Home} />
+					<Route path="/react-cv/compétences" component={Knowledges} />
+					<Route path="/react-cv/portfolio" component={Portfolio} />
+					<Route path="/react-cv/contact" component={Contact} />
 					<Route component={NotFound} />
 					{/* Ici on relie nos paths aux pages dédidées*/}
 				</Switch>

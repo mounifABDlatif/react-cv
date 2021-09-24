@@ -5,7 +5,7 @@ export const portfolioData = [
 		languages: ["javascript", "css"],
 		languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio.",
+		info: "Ce projet sera bientôt mis dans le portefolio.",
 		picture: "./media/focus-animation.gif",
 	},
 	{
@@ -14,7 +14,7 @@ export const portfolioData = [
 		languages: ["javascript", "react"],
 		languagesIcons: ["fab fa-js", "fab fa-react"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio",
+		info: "Ce projet sera bientôt mis dans le portefolio",
 		picture: "./media/focus-animation.gif",
 	},
 	{
@@ -23,7 +23,7 @@ export const portfolioData = [
 		languages: ["javascript", "php", "css"],
 		languagesIcons: ["fab fa-js", "fab fa-php", "fab fa-css3-alt"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio",
+		info: "Ce projet sera bientôt mis dans le portefolio",
 		picture: "./media/focus-animation.gif",
 	},
 	{
@@ -32,7 +32,7 @@ export const portfolioData = [
 		languages: ["javascript", "php", "react"],
 		languagesIcons: ["fab fa-js", "fab fa-php", "fab fa-react"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio",
+		info: "Ce projet sera bientôt mis dans le portefolio",
 		picture: "./media/focus-animation.gif",
 	},
 	{
@@ -41,7 +41,7 @@ export const portfolioData = [
 		languages: ["javascript", "css"],
 		languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio",
+		info: "Ce projet sera bientôt mis dans le portefolio",
 		picture: "./media/focus-animation.gif",
 	},
 	{
@@ -50,7 +50,7 @@ export const portfolioData = [
 		languages: ["javascript", "react", "css"],
 		languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
 		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis sur le portefolio",
+		info: "Ce projet sera bientôt mis dans le portefolio",
 		picture: "./media/focus-animation.gif",
 	},
 ];
