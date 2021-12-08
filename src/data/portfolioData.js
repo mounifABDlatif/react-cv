@@ -13,12 +13,12 @@ export const portfolioData = [
 	},
 	{
 		id: 2,
-		name: "lorem.fr",
+		name: "React_contact_form",
 		languages: ["javascript", "react"],
-		languagesIcons: ["fab fa-js", "fab fa-react"],
-		source: "https://github.com/mounifABDlatif",
-		info: "Ce projet sera bientôt mis dans le portefolio",
-		picture: "./media/focus-animation.gif",
+		languagesIcons: ["fab fa-js", "fab fa-sass", "fab fa-react"],
+		source: "https://github.com/mounifABDlatif/react_contact_form",
+		info: "Il s'agit d'un formulaire de contact réalisé avec React et l'outil EmailJs sans recourir à un serveur",
+		picture: "./media/react_contact_form.png",
 	},
 	{
 		id: 3,
